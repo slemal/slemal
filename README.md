@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Simon Lemal.
 - 👀 I’m interested in Mathematics, Logic, Computer Science, Sciences in general.
 - 🎓 I'm studying for a Bachelor's degree in Mathematics.
-- 🌱 I’m currently learning Lisp and C++.
-- 💬 I can code in Python, C, Java, R, x86 assembly and the Wolfram Language.
+- 🌱 I’m currently learning C++.
+- 💬 I can code in Python, C, Java, Lisp, R, x86 assembly and the Wolfram Language.
 - 📫 You can reach me through LinkedIn or by email.
 
 <!---
