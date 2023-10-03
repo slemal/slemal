@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Simon Lemal.
+- 👋 Hi, I’m Simon!.
 - 👀 I’m interested in Mathematics, Logic, Computer Science and Sciences in general.
-- 🎓 I'm studying for a Master's degree in Logic.
+- 🎓 I'm a PhD student in Mathematics at the University of Luxembourg.
 - 💬 I can code in imperative languages such as Python, C and Java, 
      but also in functional languages such as Haskell, Lean and Wolfram.
 - 🤹 My skills include object-oriented programming, functional programming,
